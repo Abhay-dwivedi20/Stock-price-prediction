@@ -1,0 +1,17 @@
+# Core Libraries
+numpy
+pandas
+python-dotenv
+pandas_datareader
+matplotlib
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+
+# Optional: Useful for fetching stock data
+yfinance
+
+# Jupyter Support (only if using notebooks locally)
+notebook
+ipykernel
